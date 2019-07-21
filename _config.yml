@@ -1,10 +1,10 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
+title: Courtney Shirley
+url: "http://courtneymshirley.com"
 baseurl:
-google_analytics_key:
+google_analytics_key: 
 google_maps_javascript_api_key:
 disqus_shortname:
 
@@ -12,13 +12,13 @@ disqus_shortname:
 logo: /siteicon.png
 description: Product marketing template for Jekyll.
 author:
-  name:
-  email:
+  name: Courtney Shirley
+  email: courtney@courtneymshirley.com
   twitter: # twitter username without the @ symbol
 social:
-  name: Hydra Template
+  name: 
   links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
+    - https://www.instagram.com/courtneymshirley/
 
 # -----
 # Build
@@ -91,14 +91,8 @@ exclude:
 
 social_icons:
   - Facebook
-  - Google Plus
   - Instagram
   - LinkedIn
-  - Pinterest
-  - Tumblr
-  - Twitter
-  - YouTube
-  - RSS
 
 _comments:
   map: Update the map location and display settings.
